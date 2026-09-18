@@ -1,0 +1,6 @@
+{
+  "name": "عين هاب | Ayn Hub",
+  "description": "عين هاب - المنصة الفاخرة للعود والعطور النادرة والبخور والمقتنيات الشرقية الأصيلة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
